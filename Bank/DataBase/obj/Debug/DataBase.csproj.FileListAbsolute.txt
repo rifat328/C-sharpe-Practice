@@ -1,0 +1,11 @@
+D:\C# Project\Bank\DataBase\bin\Debug\DataBase.dll
+D:\C# Project\Bank\DataBase\bin\Debug\DataBase.pdb
+D:\C# Project\Bank\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+D:\C# Project\Bank\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+D:\C# Project\Bank\DataBase\obj\Debug\DataBase.dll
+D:\C# Project\Bank\DataBase\obj\Debug\DataBase.pdb
+D:\C# Project\Bank\DataBase\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C# Project\Bank\DataBase\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C# Project\Bank\DataBase\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C# Project\Bank\DataBase\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\C# Project\Bank\DataBase\obj\Debug\DataBase.csproj.CopyComplete
